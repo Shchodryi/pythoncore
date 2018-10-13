@@ -3,5 +3,5 @@ def reverse(string):
     string.reverse()
     string = ' '.join(string)
     return (string)
-string = "re fg sjkjkjkd"
+string = "please reverse this string"
 print(reverse(string))
